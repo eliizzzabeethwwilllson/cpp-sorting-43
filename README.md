@@ -1,2 +1,4 @@
-# cpp-sorting-43
+# Cpp Sorting 43
+
 Sorting lists via comparative elements in C++.
+
